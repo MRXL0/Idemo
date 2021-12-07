@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Idemo_Tests' do
+  pod 'Idemo', :path => '../'
+  
+  
+end
