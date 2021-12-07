@@ -1,0 +1,16 @@
+PODS:
+  - Idemo (0.1.0)
+
+DEPENDENCIES:
+  - Idemo (from `../`)
+
+EXTERNAL SOURCES:
+  Idemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Idemo: 80c091dede585c5af6b421f93f0c83e787695a8e
+
+PODFILE CHECKSUM: f65b8016f9be092c76c129f5bdedb7258ffc457b
+
+COCOAPODS: 1.11.2

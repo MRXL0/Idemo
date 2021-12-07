@@ -1,0 +1,6 @@
+framework module Pods_Idemo_Tests {
+  umbrella header "Pods-Idemo_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
